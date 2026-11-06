@@ -32,7 +32,7 @@ Every change reversible. Every millisecond earned.
 
 I spend most of my time in the parts of Windows nobody documents — the registry keys, the services, the UI quirks. I like tools that do one thing well, explain what they changed, and always leave a way back.
 
-- 🔧 **Building** — a Windhawk mod that gives Windows Task Manager a proper dark theme.
+- 🔧 **Building** — [a Windhawk mod](https://github.com/qrmj/taskmgr-dark-mode) that gives Windows Task Manager a proper dark theme.
 - 🧠 **Learning** — C++, Win32, and why Task Manager still draws like it's 2009.
 - ☕ **Fuel** — dark coffee, lo-fi, rain on a window.
 
@@ -69,13 +69,13 @@ now:
 
 ## `work`
 
-<h3>🌙 Taskmgr Dark Mode</h3>
+<h3><a href="https://github.com/qrmj/taskmgr-dark-mode">🌙 Taskmgr Dark Mode</a></h3>
 
 <p>A Windhawk mod that gives Windows Task Manager the dark theme it deserves — down to the last control.</p>
 
 <p><code>C++</code> <code>Windhawk</code></p>
 
-> Currently in private development. Public release is coming.
+> Source is public on GitHub. Built with [Windhawk](https://windhawk.net/).
 
 ---
 
