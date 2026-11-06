@@ -32,10 +32,9 @@ Every change reversible. Every millisecond earned.
 
 I spend most of my time in the parts of Windows nobody documents — the registry keys, the services, the UI quirks. I like tools that do one thing well, explain what they changed, and always leave a way back.
 
-- 🔧 **Building** — reversible Windows tuning, a Windhawk dark-mode mod, and an Arabic-first task manager.
+- 🔧 **Building** — reversible Windows tuning and a Windhawk dark-mode mod.
 - 🧠 **Learning** — C++, Win32, and why Task Manager still draws like it's 2009.
 - ☕ **Fuel** — dark coffee, lo-fi, rain on a window.
-- 🐈 **Supervisor** — one cat with strong opinions about keyboard access.
 
 ---
 
@@ -78,26 +77,14 @@ now:
       <code>PowerShell</code> <code>Windows</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🗂 ArabicTaskManager</h3>
-      <p>An Arabic-first task manager built with PowerShell + WPF. System tools should speak your language.</p>
-      <code>PowerShell</code> <code>XAML</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🌙 Taskmgr Dark Mode</h3>
       <p>A Windhawk mod that gives Windows Task Manager the dark theme it deserves — down to the last control.</p>
       <code>C++</code> <code>Windhawk</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔒 Private builds</h3>
-      <p>Some tools are still in the lab. Ask me about them — or watch this space.</p>
-      <code>in progress</code>
-    </td>
   </tr>
 </table>
 
-> Some of these live in private repos while they bake. Public releases are coming.
+> More tools are in the lab. Public releases are coming.
 
 ---
 
