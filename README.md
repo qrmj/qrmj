@@ -32,7 +32,7 @@ Every change reversible. Every millisecond earned.
 
 I spend most of my time in the parts of Windows nobody documents — the registry keys, the services, the UI quirks. I like tools that do one thing well, explain what they changed, and always leave a way back.
 
-- 🔧 **Building** — reversible Windows tuning and a Windhawk dark-mode mod.
+- 🔧 **Building** — a Windhawk mod that gives Windows Task Manager a proper dark theme.
 - 🧠 **Learning** — C++, Win32, and why Task Manager still draws like it's 2009.
 - ☕ **Fuel** — dark coffee, lo-fi, rain on a window.
 
@@ -58,7 +58,7 @@ I spend most of my time in the parts of Windows nobody documents — the registr
 
 ```yaml
 now:
-  building:  "reversible Windows tuning + a Windhawk mod"
+  building:  "a Windhawk dark-mode mod for Task Manager"
   learning:  "C++ / Win32 / UI internals"
   listening: "lo-fi, synthwave, rain"
   fuel:      "coffee, obviously"
@@ -69,22 +69,13 @@ now:
 
 ## `work`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠 FortniteOptimizer</h3>
-      <p>Reversible Windows tuning for lower latency and cooler temps. No overclock, no voltage changes — every tweak has a restore path.</p>
-      <code>PowerShell</code> <code>Windows</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌙 Taskmgr Dark Mode</h3>
-      <p>A Windhawk mod that gives Windows Task Manager the dark theme it deserves — down to the last control.</p>
-      <code>C++</code> <code>Windhawk</code>
-    </td>
-  </tr>
-</table>
+<h3>🌙 Taskmgr Dark Mode</h3>
 
-> More tools are in the lab. Public releases are coming.
+<p>A Windhawk mod that gives Windows Task Manager the dark theme it deserves — down to the last control.</p>
+
+<p><code>C++</code> <code>Windhawk</code></p>
+
+> Currently in private development. Public release is coming.
 
 ---
 
